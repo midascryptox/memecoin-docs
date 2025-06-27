@@ -1,0 +1,28 @@
+site_name: memecoin guide
+
+# Always use dark mode
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Introduction: index.md
+  - Trading Platforms: trading-tools/trading-platforms.md
+  - Trading Tools: trading-tools/index.md
+  - How to Read Meta: how-to-read-meta.md
+  - Scams: scams.md
+  - Disclaimer: disclaimer.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true 
