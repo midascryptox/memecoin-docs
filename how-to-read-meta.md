@@ -55,6 +55,7 @@ TrenchRadar scans pump.fun transactions and highlights suspicious buys (⚠️).
 - Sometimes multiple buys in one slot happen naturally (copytrading bots, multi-wallet tools).
 - But if 24 wallets buy in 0.4s and hold 76%—it's clearly a manipulated bundle.
 
-![Bundle Analysis Example](assets/images/bundle.png)
+![Bundle Analysis Example![image](https://github.com/user-attachments/assets/0769b22f-ad99-4f52-a746-13dae6a9b94f)
+
 
 As you can see, this is a clearly bundled scam coin. 
